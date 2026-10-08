@@ -521,7 +521,7 @@ function App() {
             <footer className="footer">
               <span>MADE ESPECIALLY FOR BILAL</span>
               <Heart size={13} fill="currentColor" />
-              <span>WITH BEST FRIEND ENERGY 💙</span>
+              <span>WITH LOML ENERGY 💙</span>
             </footer>
           </motion.main>
         )}
